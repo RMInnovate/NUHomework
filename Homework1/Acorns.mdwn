@@ -1,1 +1,174 @@
+![text](AcornsLogotype.jpg)
 
+# Acorns Case Study
+
+## Overview
+
+Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who do not have the funds to meet the minimal account thresholds required by traditional brokers such as Fidelity and Vanguard.  Their market also includes new investors who don't know much about investing and are overwhelmed or intimated by various investment options such as stocks, mutual funds, ETFs, IRAs, Roth-IRAs, etc. As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. As of 2019, Acorns had over 4.5 million users.[1][3][5]
+
+Acorns was co-founded by father and son Walter and Jeff Cruttenden in 2012.  The company re-launched in August 2014 to include mobile services. Acorns is currently managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive entrepreneurship background and holds a bachelors degree in both Psychology and Economics from Cornell University.[1][5]
+
+Acorns' initial success can be attributed to a long list of investors:
+* PayPal
+* BlackRock
+* Bain Capital
+* DST Global
+* NBCUniversal
+* Comcast Ventures
+* Capital Group
+* Greycroft
+* eVentures
+* TPG
+* Rakuten
+* Sound Ventures
+* Ashton Kutcher
+* Kevin Durant
+* Jennifer Lopez
+* Alex Rodriguez
+* Bono
+
+As of Jan 2019, Acorns received $105 million in Series E funding, bringing Acorns' valuation to $860 million. Acorns' valuation now exceeds Betterment's, who is the largest independent robo-advisor in the world. [4][6][7]
+
+In addition to becoming the leader in micro-investing, Acorns is dedicated to more humanitarian goals, such as teaching people about investing and personal finance and planting oak trees to fight climate change. Acorns offers a very extensive, easy to read Q&A on financial terms as part of their website and is integrated into their app. Acorns also partnered with One Tree Planted to plant 438,000 oak trees to date.[1]
+
+
+## Products and Services
+
+### Acorns' Mission and Services
+Acorns' mission is to offer a simple investment platform to low-income, non-savvy investors. The largest sub-market would be millennials who are just entering the work force with mounds of debt. Individuals with low incomes often live paycheck to paycheck. The goal of saving is daunting as they can barely make enough to pay their monthly bills. Also, anyone new to investing is often overwhelmed and intimated by all the different investing options and the risk associated with investing. 
+
+Should I buy a stock or mutual fund or ETF? What makes one stock better than another? What's the difference between an ETF and a mutual funds?  What's the difference between an expense ratio, purchase fee or redemption fee?  These are just some of the questions that a new investor must learn and contend with.  For these reasons, new uneducated investors tend to shy away from investing.
+
+Acorns addresses these issues by making investing as seamless as possible. Acorns offers 3 main services:
+* Basic (Acorns Invest)
+  * $1 per month
+  * Allows users to link their Acorns account to a debit or credit card; for each purchase, the purchase is rounded up to the next dollar; these Round-Ups are accumulated in the user's account; once Round-Ups total $5, the Round-Ups are used to purchase fractions of an ETF.
+  * Allows users to set up automatic contributions to ETFs.
+  * ETFs are pre-selected based off of user's responses to risk tolerances questions, but the user is able to change their selection from any of 5 pre-managed ETFs (Conservative, Moderately Conservative, Moderate, Moderately Aggressive, Aggressive).
+  * Acorns has partnered with 350+ companies to offer Found Money which are kickbacks received from partnered companies when the user uses their Acorns linked debit card or credit card for purchases. Partners include name brand companies such as Airbnb, Barnes & Nobles, Blue Apron, Chevron, DirecTV, Dollar Shave Club, earnest, Expedia, Groupon, Liberty Mutual, LifeLock, Lyft, Macys, Nike, Sephora, Stitch Fix, Walgreens, Walmart, and Warby Parker.
+
+* Plus (Acorns Invest plus Acorns Later)
+  * $2 per month
+  * Includes all services from Basic (Acorns Invest)
+  * Allows users to invest in an IRA (Roth, Traditional, or SEP)
+  * IRA plan is pre-selected based off of user's retirement goals and risk tolerances
+
+* Premium (Acorns Later plus Acorns Spend)
+  * $3 per month
+  * Includes all services from Plus (Acorns Invest plus Acorns Later)
+  * Offers an Acorns online checking account and debit card; no interest is paid on the account
+
+### Competitor Assessment
+
+Acorns main competitors are WealthFront and Betterment, but others are:
+ * SIGFI
+ * Robinhood
+ * FutureAdvisor
+ * Personal Capital
+ * DoubleNetPay
+ * Freetrade
+ * HelloWallet
+ * Altruist
+ * SoFi
+ * Stash
+
+Arguably, Acorns' management fees are high compared to other investment options. NerdWallet compared Acorns' fees to competitors Wealthfront, Betterment, and Stash.  An excerpt of their analysis is below.
+
+> Acorns' fees as a percentage of assets:
+
+> |   **Account Balance**   |   **Acorns Invest**   |   **Acorns Later**   |   **Acorns Spend**   |
+> |   ------------------:   |   :---------------:   |   :--------------:   |   :--------------:   |
+> |   $100                  |   12%                 |   24%                |   36%                |
+> |   $500                  |   2.4%                |   4.8%               |   7.2%               |
+> |   $5,000                |   0.24%               |   0.48%              |   0.72%              |
+> |   $10,000               |   0.12%               |   0.24%              |   0.36%              |
+
+> For context, Acorns competitors like Wealthfront and Betterment charge 0.25%, and generally offer a higher level of service, with tax assistance, better user interfaces and more diversified portfolios. Stash charges $1 a month for a brokerage account, plus a bank account with a debit card that offers rewards. For $3 a month, Stash gives you those offerings plus a retirement account (a traditional or Roth IRA). We [NerdWallet] would argue that Acorns provides more value than Stash by way of portfolio management.[4]
+
+NerdWallet's analysis is a little biased.  Assuming the investor never exceeds a balance of $10,000 and the performances of the ETFs offered per company are comparable, then I agree that Wealthfront and Betterment might be better investment options.  However, the goal of investing is to save as much money as you can.  Once Acorns' users exceed a $5,000 balance then the fees paid on Acorns' platforms will be significantly less than Wealthfront and Betterment.  Also, comparing the fees without comparing historical returns on the portfolios is like looking at the HOA fees of a townhome to assess the monthly mortgage payments.  If Acorns ETF returns are on average higher than its competitors by more than the fee delta, then users are better off with Acorns.  If the returns are lower, than that would be more reason to go with a competitor.  I was not able to find rates of returns for Acorns portfolio to make this assessment.
+
+In addition to comparing management fees, Listen Money Matters compared Acorns to WealthFront and Betterment by the following 3 criteria:[9]
+- User Experience and Aesthetic Appeal
+    
+    Winner: Acorns
+    
+    Acorns mobile app and website is by far more stunning and easier to use than either Betterment's or WealthFront's.
+- Investing Methodology
+
+   Winner: Betterment
+   
+   Betterment offers the most ETF options, 32, compared to WealthFront and Acorns. 
+
+- Advanced Features
+
+   Winner: Betterment
+
+   Betterment offers a more "grown-up" retirement suite that helps people understand their unique retirement needs based on their current lifestyle, income, and retirement goals.
+
+### Technologies
+Per Stackshare, Acorns uses the following technologies to support their business: [8]
+* Application & Data
+  * JavaScript
+  * Bootstrap
+  * React
+  * PostgreSQL
+  * Amazon EC2
+  * Amazon S3
+  * Redis
+  * Ruby
+  * Amazon CloudFront
+  * Android SDK
+  * Rails
+  * Swift
+  * Scala
+  * Kotlin
+  * Apache Spark
+  * D3.js
+  * Polymer
+* Utilities
+  * Google Analytics
+  * Mailgun
+  * Optimizely
+  * Segment
+* DevOps
+  * GitHub
+  * Docker
+  * New Relic
+  * Subline Text
+  * Vim
+  * Travis CI
+  * Amazon EC2 Container Service
+  * Grafana
+  * Amazon CloudWatch
+* Business Tools
+  * G Suite
+
+
+## Landscape:
+
+Acorns is part of the robo-advising, micro-investing industry that grew out of the market collapse in 2008.  The main appeal is that robo-advising can offer well diversified investment options at a low fee as the industry relies on algorithms versus paying a portfolio manager to manage the accounts. From there, the industry is growing to also offer online banking services. [10] 
+
+According to various analyst reports, as of May 2019, less than $1 trillion assets worldwide is managed by robo-advisors; this is projected to increase to $2.2 trillion by 2022.[10] As AI algorithms and machine learning algorithms continue to mature, this will continue to shape the services offered by robo-advising companies. The industry is still taking off and has potential to grow in ways that cannot yet be imagined. 
+
+Acorns is one of the smaller players in this industry, but they are also marketing a different niche market. Acorns differs from others in the industry by offering a simple way for people with low-incomes to save money everyday by using their Round-Ups to invest in fractions of an ETF. Once users' debit or credit cards are linked to their Acorns account the effort to invest is seamless; it's as easy as carrying on with everyday purchases.
+
+
+## Recommendations
+
+Right now Acorns offers a very simple investing structure. Users answer simple profile questions and based on the user's risk profile Acorns recommend a certain ETF.  The user is able to choose different ETFs, however, the investment options are pre-defined by Acorns portfolio managers. 
+
+I think this is sufficient for new investors who are still learning what it means to invest and how to invest. However, as the investor matures, they will want to make their own investment decisions. My recommendation for Acorns would be to grow their platform to allow users to invest in stocks at their own risk.  If Acorns is worried about the revenue lost from people investing in stocks directly, they can offer their expert financial advising as a parallel service to those who want to invest independently. Eventually Acorns investors will have larger portfolios, $250,000 or greater.  Acorn will need to change their business model to keep them and not loose them to other platforms that cater to the investment needs of more educated investors.  Perhaps this new service will be Tree so new investors start off as Acorns and as they grow they become Trees.
+
+
+## References
+
+1. ![Acorns Website](https://www.acorns.com)
+2. ![Forbes Fintech 50 2018: The Future of Investing](https://www.forbes.com/sites/kristinstoller/2018/02/13/forbes-fintech-50-2018-the-future-of-investing/#3c171f2e2532)
+3. ![Investopedia: Micro-Investing Platform](https://www.investopedia.com/terms/m/microinvesting-platform.asp)
+4. ![NerdWallet: Acorns Review 2020: Pros, Cons and How It Compares](https://www.nerdwallet.com/reviews/investing/advisors/acorns)
+5. ![Wikipedia: Acorns (company)](https://en.wikipedia.org/wiki/Acorns_(company))
+6. ![CNBC: Fintech start-up Acorns valued at $860 million after latest funding](https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html)
+7. ![Business Insider: Investing app Acorns nabbed $105 million in funding and now has higher valuation than robo giant Betterment ](https://www.businessinsider.com/acorns-raises-105-million-in-funding-2019-1)
+8. ![Stackshare: Acorns](https://stackshare.io/acorns/acorns)
+9. ![Betterment vs Wealthfront vs Acorns: Which Robo-Advisor Wins in 2020?](https://www.listenmoneymatters.com/acorns-vs-betterment-vs-wealthfront/)
+10. ![Investopedia: Robo-Advisors 2019: Still Waiting for the Revolution](https://www.investopedia.com/robo-advisors-2019-where-have-all-the-assets-gone-4767826)
