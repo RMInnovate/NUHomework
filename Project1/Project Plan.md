@@ -99,4 +99,8 @@ Resources:
 - https://financialmodelingprep.com/developer/docs/
 - https://towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f
 - https://apidocs.advisorsoftware.com/?version=latest
+- https://pypi.org/project/Backtesting/
+- https://portfolio-optimizer.pyviz.demo.anaconda.com/portfolio
+- https://stocknewsapi.com/
+- logistics regression
 
