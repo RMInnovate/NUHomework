@@ -26,5 +26,5 @@ Also, from plotting the actuals vs predicted closing prices, it appears that ana
 
 **Closing Results**
 
-![fng_window1](fng_window1.png)
-![fng_window10](fng_window10.png)
+![closing_window1](closing_window1.png)
+![closing_window10](closing_window10.png)
